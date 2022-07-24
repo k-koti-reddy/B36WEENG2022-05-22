@@ -1,0 +1,36 @@
+{
+    "experience" : {
+        "1" : {
+            "company" : "ansys",
+            "position" : "R&D Engineer II",
+            "date" : "sep-2020 - current"
+        },
+        "2" : {
+            "company" : "altair",
+            "position" : "Software Developer",
+            "date" : "aug-2018 to sep-2020"
+        }
+    },
+    "academics" : {
+        "Post-Graduation" : {
+            "University" : "University of Rostock",
+            "Location" : "Rostock",
+            "Country" : "Germany",
+            "Degree" : "Masters of Science",
+            "Specialization" : "Computational Science and Engineering",
+            "Year": "April 2016 - Mar 2018"
+        },
+        "Graduation" : {
+            "University" : "Amrita Vishwa Vidyapeetam",
+            "Location" : "Kollam",
+            "Country" : "India",
+            "Degree" :"Bachelor of Technology",
+            "Specialization" : "Mechanical Engineering",
+            "Year" : "June 2010 - June 2014"
+        }
+    },
+    "skills" : {
+        "Languages" : ["Telugu", "Hindi", "English", "German"],
+        "Technology" : ["C++", "javascript", "C#", "HTML", "CSS"]
+    }
+}
